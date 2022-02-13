@@ -36,14 +36,6 @@ body {
     border-bottom: 1px solid;
 }
 
-.paleta {
-    color: #6F5B3E;
-    color: #F9F6F0;
-    color: #C4AE78;
-    color: #171515;
-    color: #F9F9FB;
-}
-
 @media (min-width: 640px){
 
     .header-showcase {
